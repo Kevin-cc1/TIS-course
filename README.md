@@ -1,7 +1,6 @@
 # Assignment
 This project is about LIU YUEHUI's TIS Assignment
 <h1 align="left">Hey 👋 What's up?</h1>
-###
 
 <p align="left">My name is LIU YUEHUI and I'm a student ,from Universiti Teknologi Malaysia (UTM) </p>
 
