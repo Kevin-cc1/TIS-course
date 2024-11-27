@@ -10,5 +10,5 @@ This project is about LIU YUEHUI's TIS Assignment
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Computer Science (Computer Network And Security) <br>🎯 Goals: Get 4.0 Gpa and be a member of Microsoft engineer <br>🎲 Favourite : Football⚽ Badminton🏸 Singing🎤 </p>
+<p align="left">📚 I'm currently learning Computer Science (Computer Network And Security) <br>🎯 Goals: Get 4.0 Gpa and be a member of Microsoft engineer <br>🎲 Favourite : Football⚽ Badminton🏸 Singing🎤 </p>
 
